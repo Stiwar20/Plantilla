@@ -1,0 +1,160 @@
+<!DOCTYPE HTML>
+<!--
+	Ex Machina by TEMPLATED
+    templated.co @templatedco
+    Released for free under the Creative Commons Attribution 3.0 license (templated.co/license)
+-->
+<html>
+	<head>
+		<title>Ex Machina by TEMPLATED</title>
+		<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+		<meta name="description" content="" />
+		<meta name="keywords" content="" />
+		<link href='http://fonts.googleapis.com/css?family=Roboto+Condensed:700italic,400,300,700' rel='stylesheet' type='text/css'>
+		<!--[if lte IE 8]><script src="js/html5shiv.js"></script><![endif]-->
+		<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+		<script src="js/skel.min.js"></script>
+		<script src="js/skel-panels.min.js"></script>
+		<script src="js/init.js"></script>
+		<noscript>
+			<link rel="stylesheet" href="css/skel-noscript.css" />
+			<link rel="stylesheet" href="css/style.css" />
+			<link rel="stylesheet" href="css/style-desktop.css" />
+		</noscript>
+		<!--[if lte IE 8]><link rel="stylesheet" href="css/ie/v8.css" /><![endif]-->
+		<!--[if lte IE 9]><link rel="stylesheet" href="css/ie/v9.css" /><![endif]-->
+	</head>
+	<body class="right-sidebar">
+
+	<!-- Header -->
+		<div id="header">
+			<div class="container">
+					
+				<!-- Logo -->
+					<div id="logo">
+						<h1><a href="#">La Mejor Música Electrónica</a></h1>
+					</div>
+				
+				<!-- Nav -->
+					<nav id="nav">
+						<ul>
+							<li><a href="index.html">Perfil</a></li>
+							<li><a href="left-sidebar.html">Hobbies</a></li>
+							<li class="active"><a href="right-sidebar.html">Musica</a></li>
+							
+						</ul>
+					</nav>
+
+			</div>
+		</div>
+	<!-- Header -->
+		
+	<!-- Banner -->
+		<div id="banner">
+			<div class="container">
+			</div>
+		</div>
+	<!-- /Banner -->
+
+	<!-- Main -->
+		<div id="page">
+				
+			<!-- Main -->
+			<div id="main" class="container">
+				<div class="row">
+					<div class="9u">
+						<section>
+							<header>
+								<h2>Electrónica</h2>
+								
+							</header>
+
+
+							<iframe width="560" height="315" src="https://www.youtube.com/embed/bpVzMInngtg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+							<hr></hr>
+
+							<iframe width="560" height="315" src="https://www.youtube.com/embed/vanszdGPAxI" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+                            <hr></hr>
+
+                            <iframe width="560" height="315" src="https://www.youtube.com/embed/KrVC5dm5fFc" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+                            <hr></hr>
+
+                            <iframe width="560" height="315" src="https://www.youtube.com/embed/P2x3-b6JEj8" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+                            <hr></hr>
+                            <iframe width="560" height="315" src="https://www.youtube.com/embed/g_s17HMFaug" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+                            <hr></hr>
+                            <iframe width="560" height="315" src="https://www.youtube.com/embed/hhdj61rRvzA" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+                            <hr></hr>
+                            <iframe width="560" height="315" src="https://www.youtube.com/embed/APqkVXoPRC0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+
+
+
+						</section>
+					</div>
+					
+					<div class="3u">
+						<section class="sidebar">
+							<header>
+								<h2>Lo que más escucho </h2>
+							</header>
+							<ul class="style1">
+								<li><a href="https://www.youtube.com/watch?v=tYcn4PYZwLs">Dream it's a Powerful Word (Motorcycles)</a></li>
+								<li><a href="https://www.youtube.com/watch?v=b5EtWla_X3M&t=86s">Fly By Night - a motorcycle tribute</a></li>
+							<li><a href="https://www.youtube.com/watch?v=OLb7U_MMecs&t=10s">Reasons That Make People Love Motorcycles</a></li>
+								
+							</ul>
+						</section>
+						<section class="sidebar">
+							<header>
+								
+							</header>
+							<ul class="style1">
+								<li><a href="https://www.youtube.com/watch?v=XVIeX5I6n0E">Reasons That Make People Love Motorcycles #2n</a></li>
+								<li><a href="https://www.youtube.com/watch?v=P6izqPqbEoE">Why We Ride - February 2018</a></li>
+								<li><a href="https://www.youtube.com/watch?v=CDbFACi1ivs">Feel The Freedom (Motorcycles)</a></li>
+								
+							</ul>
+
+                             
+                              <meta charset="utf-8">
+                              <form action="procesar.php" method="post">
+                              	<hr></hr>
+                              	 <h2>Datos Personales</h2>
+                              	<p>Nombre:   <input type="text" name="Nombre"></p>
+                              	<hr></hr>
+                              	<p>Apellido: <input type="text" name="Apellido"></p>
+                              	<hr></hr>
+                              	<p>Ciudad:   <input type="text" name="Ciudad"></p>
+                              	<hr></hr>
+                              	<p>Direccion: <input type="text" name="Direccion"></p>
+                              	<hr></hr>
+                              	<p>Telefono: <input type="text" name="Telefono"></p>
+                              	<hr></hr>
+                              	<p>Email:    <input type="text" name="Email"></p>
+                              	<hr></hr>
+                              	<p><input type="submit" name="Enviar"/></p>
+                              	
+                              </form>
+						</section>
+					</div>
+
+				</div>
+			</div>
+			<!-- Main -->
+
+		</div>
+	<!-- /Main -->
+
+	<!-- Featured -->
+		
+
+
+	</body>
+</html>
