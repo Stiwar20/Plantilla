@@ -1,0 +1,157 @@
+<!DOCTYPE HTML>
+<!--
+	Ex Machina by TEMPLATED
+    templated.co @templatedco
+    Released for free under the Creative Commons Attribution 3.0 license (templated.co/license)
+-->
+<html>
+	<head>
+		<title>Ex Machina by TEMPLATED</title>
+		<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+		<meta name="description" content="" />
+		<meta name="keywords" content="" />
+		<link href='http://fonts.googleapis.com/css?family=Roboto+Condensed:700italic,400,300,700' rel='stylesheet' type='text/css'>
+		<!--[if lte IE 8]><script src="js/html5shiv.js"></script><![endif]-->
+		<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+		<script src="js/skel.min.js"></script>
+		<script src="js/skel-panels.min.js"></script>
+		<script src="js/init.js"></script>
+		<noscript>
+			<link rel="stylesheet" href="css/skel-noscript.css" />
+			<link rel="stylesheet" href="css/style.css" />
+			<link rel="stylesheet" href="css/style-desktop.css" />
+		</noscript>
+		<!--[if lte IE 8]><link rel="stylesheet" href="css/ie/v8.css" /><![endif]-->
+		<!--[if lte IE 9]><link rel="stylesheet" href="css/ie/v9.css" /><![endif]-->
+	</head>
+	<body class="left-sidebar">
+
+	<!-- Header -->
+		<div id="header">
+			<div class="container">
+					
+				<!-- Logo -->
+					<div id="logo">
+						<h1><a href="#"> MIS HOBBIES </a></h1>
+					</div>
+				
+				<!-- Nav -->
+					<nav id="nav">
+						<ul>
+							<li><a href="index.html">Perfil</a></li>
+							<li class="active"><a href="left-sidebar.html">Hobbies</a></li>
+							<li><a href="right-sidebar.html">Musica</a></li>
+						
+						</ul>
+					</nav>
+
+			</div>
+		</div>
+	<!-- Header -->
+		
+	<!-- Banner -->
+		<div id="banner">
+			<div class="container">
+			</div>
+		</div>
+	<!-- /Banner -->
+
+	<!-- Main -->
+		<div id="page">
+				
+			<!-- Main -->
+			<div id="main" class="container">
+				<div class="row">
+
+					<div class="3u">
+						<section class="sidebar">
+							<header>
+								<h2>Lo que más me gusta es correr en la moto </h2>
+							</header>
+							<ul class="style1">
+								<li><a href="https://www.youtube.com/watch?v=6psPowEpT3U">Carrera Copa Pulsar 200 NS</a></li>
+								<li><a href="https://www.youtube.com/watch?v=8FBO5VgEUto">Pulsar 200 NS vs Ninjas 300 - 250 - R3 - CBR250 </a></li>
+								<li><a href="https://www.youtube.com/watch?v=fV5Ek8hCe0o">250cc class Race || Pulsar 200 NS vs CBR 250R vs Ninja 250R</a></li>
+								
+							</ul>
+						</section>
+						<section class="sidebar">
+							
+					</div>
+				
+					<div class="9u skel-cell-important">
+						<section>
+							<header>
+								<h2>motos</h2>
+								<span class="byline">No te preocupes por morir, ese es uno de los tantos miedos que tienen los que no saben vivir. Y verte vivir los asusta.</span>
+							</header>
+                            <p> Los adelantamientos más espectaculares del Mundial de MotoGP</p>
+                            <hr></hr>
+							<iframe width="560" height="315" src="https://www.youtube.com/embed/2cg4IsKUzEE" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+                            
+                            <p>LA CARRERA DE MOTOS MAS HERMOSA DEL MUNDO TT STREET RACE</p>
+                            <hr></hr>
+							<iframe width="560" height="315" src="https://www.youtube.com/embed/mWmQ4QuChWw" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+							<p>trucos en motos! impresionantes!!</p>
+							<hr></hr>
+							<iframe width="560" height="315" src="https://www.youtube.com/embed/Mk4Z1xynoas" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+							<p>STUNTER13 Stunt Moto Show</p>
+							<hr></hr>
+							<iframe width="560" height="315" src="https://www.youtube.com/embed/VLY4NLPIs2g" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+							<h2>Tipo de motores</h2>
+
+							<p>Hay diferentes tipos de motores dependiendo del resultado que se busque en cada tipo de moto. La inmensa mayoría de los motores que se fabrican hoy en día son motores 4 tiempos, los motores 2 tiempos han quedado sólo para motos específicas de enduro o motocross, o pequeños ciclomotores de 50 cc.
+
+                              Las diferentes configuraciones de los motores hacen que la entrega de potencia y par motor varíe de un caso a otro, independientemente de la cilindrada de cada uno de ellos. El carácter y la personalidad de una moto dependerá de su motor, pero también lo debería ser su precio, ya que un motor de un cilindro es evidentemente mucho más sencillo de diseñar, fabricar y mantener que un motor de seis cilindros.</p>
+
+                              <p>Motor monocilíndrico</p>
+                              <p><a href="#"><img src="images/motor.jpg" alt=""></a></p>
+
+
+							<p>Es el tipo de motor más sencillo de todos ya que sólo tiene un cilindro. Por ello es el más económico de todos, por lo que es el tipo de motor al que la mayoría de las marcas recurre para dar vida a sus motos más pequeñas, la inmensa mayoría de 50 a 250 cc, e incluso muchas otras que pueden llegar a ser de 600 cc.
+
+                            Es también el tipo de motor más ligero y compacto de todos, por lo que la mayoría de las motos offroad recurren a este tipo de configuración. Su mecánica además es sencilla y es el que menor número de partes móviles comprende, por lo que su mantenimiento no es exigente.
+
+                            Es el tipo de motor que transmite un mayor número de vibraciones, pero también el que ofrece la potencia a un menor número de revoluciones. La potencia es menor que en el caso de motores de más cilindros pero su par sí es contundente sin necesitar de subir mucho de vueltas.</p>
+
+                            <p>Motor bicilíndrico</p>
+                              <p><a href="#"><img src="images/motor_bi.jpg" alt=""></a></p>
+
+
+							<p>Los motores bicilíndricos pueden seguir muy diferentes configuraciones. Los cilindros pueden estar dispuestos en forma de V, en forma de L, en paralelo uno junto al otro o incluso enfrentados entre sí, como en los motores bóxer.
+
+                             Es posiblemente el tipo de motor más polivalente, son los más populares en las motos de cilindrada media e incluso entre muchas de alta cilindrada y muy alta cilindrada, pero sin duda los más utilizados hasta los 600 cc.
+
+                             Un tipo de motor que ofrece una combinación muy equilibrada, suben más y más rápido de vueltas que los motores de un cilindro, y a su vez consiguen una mayor potencia y un menor número de vibraciones. Lógicamente son más pesados que los primeros, pero mucho más ligeros que los de cuadro cilindros, por lo que el compromiso entre peso y prestaciones merece la pena.
+
+                             Son motores con carácter y personalidad y sus seguidores los preferirán antes que un tetracilíndrico por la rápida respuesta que ofrecen al nada más abrir gas.</p>
+							
+    
+  
+						</section>
+					</div>
+					
+				</div>
+			</div>
+			<!-- Main -->
+
+		</div>
+
+
+	<!-- /Main -->
+
+	<!-- Featured -->
+		
+	<!-- /Footer -->
+
+	<!-- Copyright -->
+		<div id="copyright" class="container">
+			Mi: <a href="http://localhost/jhon/">Perfil</a> Inicio: 
+		</div>
+
+
+	</body>
+</html>
