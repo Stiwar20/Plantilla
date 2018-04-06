@@ -1,0 +1,238 @@
+<!DOCTYPE HTML>
+<!--
+	Ex Machina by TEMPLATED
+    templated.co @templatedco
+    Released for free under the Creative Commons Attribution 3.0 license (templated.co/license)
+-->
+<html>
+	<head>
+		<title>Ex Machina by TEMPLATED</title>
+		<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+		<meta name="description" content="" />
+		<meta name="keywords" content="" />
+		<link href='http://fonts.googleapis.com/css?family=Roboto+Condensed:700italic,400,300,700' rel='stylesheet' type='text/css'>
+		<!--[if lte IE 8]><script src="js/html5shiv.js"></script><![endif]-->
+		<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+		<script src="js/skel.min.js"></script>
+		<script src="js/skel-panels.min.js"></script>
+		<script src="js/init.js"></script>
+		<noscript>
+			<link rel="stylesheet" href="css/skel-noscript.css" />
+			<link rel="stylesheet" href="css/style.css" />
+			<link rel="stylesheet" href="css/style-desktop.css" />
+		</noscript>
+		<!--[if lte IE 8]><link rel="stylesheet" href="css/ie/v8.css" /><![endif]-->
+		<!--[if lte IE 9]><link rel="stylesheet" href="css/ie/v9.css" /><![endif]-->
+	</head>
+	<body class="homepage">
+
+	<!-- Header -->
+		<div id="header">
+			<div class="container">
+					
+				<!-- Logo -->
+					<div id="logo">
+						<h1 class="stiwar"><a href="#">MI PERFIL</a></h1>
+					</div>
+				
+				<!-- Nav -->
+					<nav id="nav">
+						<ul>
+							<li class="active"><a href="index.html">Perfil</a></li>
+							<li><a href="left-sidebar.html">Hobbies</a></li>
+							<li><a href="right-sidebar.html">Musica</a></li>
+							
+						</ul>
+					</nav>
+
+			</div>
+		</div>
+	<!-- Header -->
+		
+	<!-- Banner -->
+		<div id="ban">
+			<div class="container">
+			</div>
+		</div>
+	<!-- /Banner -->
+
+	<!-- Main -->
+		<div id="page">
+
+			<!-- Extra -->
+			<div id="marketing" class="container">
+				<div class="row">
+					<div class="3u">
+						<section>
+							<header>
+								<h2>Nunca</h2>
+							</header>
+							<p class="subtitle">•	No es más GRANDE el que nunca falla, si no el que NUNCA se da por VENCIDO.</p>
+							<p><a href="#"><img src="images/m_bajaj-pulsar-200.jpg" alt=""></a></p>
+							<a href="https://www.youtube.com/watch?v=Dvpd9_5vuks" class="button">Musica</a>
+						</section>
+					</div>
+					<div class="3u">
+						<section>
+							<header>
+								<h2>digas</h2>
+							</header>
+							<p class="subtitle">Cada FRACASO es un capítulo más de nuestra vida y una LECCIÓN que nos ayuda a CRECER. No te desanimes por los fracasos. APRENDE de ellos, y sigue ADELANTE.</p>
+							<p class="pul"><a href="#"><img src="images/pics14.jpg" alt=""></a></p>
+							<a href="https://www.youtube.com/watch?v=wfWkmURBNv8" class="button">Musica</a>
+						</section>
+					</div>
+					<div class="3u">
+						<section>
+							<header>
+								<h2>No</h2>
+							</header>
+							<p class="subtitle">Cada FRACASO es un capítulo más de nuestra vida y una LECCIÓN que nos ayuda a CRECER. No te desanimes por los fracasos. APRENDE de ellos, y sigue ADELANTE.</p>
+							<p><a href="#"><img src="images/bajaj-pulsar.jpg" alt=""></a></p>
+							<a href="https://www.youtube.com/watch?v=sGIm0-dQd8M" class="button">Musica</a>
+						</section>
+					</div>
+					<div class="3u">
+						<section>
+							<header>
+								<h2>puedo</h2>
+							</header>
+							<p class="subtitle">Antes de RENDIRTE recuerda la RAZÓN por la cual EMPEZASTE.</p>
+							<p><a href="#"><img src="images/pics16.jpg" alt=""></a></p>
+							<a href="https://www.youtube.com/watch?v=_I_D_8Z4sJE" class="button">Musica</a>
+						</section>
+					</div>
+				</div>
+			</div>
+			<!-- /Extra -->
+				
+			<!-- Main -->
+			<div id="main" class="container">
+				<div class="row">
+					<div class="6u">
+						<section>
+							<header>
+								<h2 class="jhon">Mi historia corta </h2>
+								<span class="byline">----------------------------------------------------------------------------</span>
+							</header>
+							
+							<p>Mi nombre es jhon Estive Perez Vanegas Mi historia es larga, pero contare lo necesario, soy un poco serio callado con malgenio, en mi vida aprendí de los errores de mi vida, cada golpe cada muerte me enseño hacer fuerte, pero tome un mal camino del cual hasta a hora no he podido salir mis amigos que los consideraba mis hermanos, pero cada día mis hermanos y yo estábamos tomando un camino del cual ya no podíamos salir.</p>
+							<p>
+								 No teníamos control de lo que hacíamos, mi vida ya era controlada por un jefe que dirigía la banda yo pensaba que él nos quería cuidar, pero el solo pensaba en el y en sus negocios nosotros solo éramos marionetas, muchas muertes mis amigos se volvieron adictos, pero solo me tenia que quedar callado la muerte siempre estuvo tan cerca de mi pero nunca me llego estaba cansado de esa vida de siempre lo mismo ya la vida no me importaba.
+							</p>
+							<p>
+								Mi malgenio depende de eso de siempre estar callado de no poder hacer nada porque ellos tiene el control y yo no era nadie pero lo que más me duele es mi madre tener que mentirle, la plata que gano no me hace feliz nadie sabe de mi solo saben lo que ven pero no mi vida cada diciembre cumple años siempre solo los domingos voy al cementerio a visitar a mis hermanos y siempre me pregunto porque sigo vivo me siento tan vacío con ira y cada año que pasa es lo mismo, quiero escapar de todo esto  pero la única forma de salir es la muerte.       
+							</p>
+							
+							
+							<a href="https://www.youtube.com/results?search_query=musica+de+la+mejor" class="button"> Mas Musica</a>
+						</section>
+					</div>
+					<div class="3u">
+						<section class="sidebar">
+							<header>
+								<h2>Frases motivadoras</h2>
+							</header>
+							<ul class="style2">
+								<li>
+									
+									<p>De nada sirve una frase motivadora más o menos bonita si TÚ no empiezas a CREER en TI MISM@ desde YA. Recuerda que la clave de tu ÉXITO siempre va a empezar por CREER en TI MISM@.</p>
+								</li>
+								<li>
+									
+									<p>Las personas de EXITO son personas COMUNES con una DETERMINACIÓN EXTRAORDINARIA.</p>
+								</li>
+								<li>
+									
+									<p>Borra de tu mente el "NO PUEDO" y empieza a intentar con TODAS tus FUERZAS aquello que te propongas.</p>
+								</li>
+								
+							</ul>						
+						</section>
+					</div>
+					<div class="3u">
+						<section class="sidebar">
+							<header>
+								<h2>Los videos que más me gusta ver   </h2>
+							</header>
+							<ul class="style1">
+								<li><a href="https://www.youtube.com/watch?v=QGMrJIXuvSQ"> La ñera mas tierna </a></li>
+								<li><a href="https://www.youtube.com/watch?v=tsT5z0KSlXc"> Cuando tu novia te dice "YA NO VAMOS A HACER COSITAS" 💔</a></li>
+								<li><a href="https://www.youtube.com/watch?v=fAqD7zpdArg"> Cuando coronas con tu amigo </a></li>
+								<li><a href="https://www.youtube.com/watch?v=SKC3Id2wnFo"> Si eres mujer, NUCA hagas esto 😂</a></li>
+								
+							</ul>
+						</section>
+						<section class="sidebar">
+							
+							</ul>
+						</section>
+					</div>
+				</div>
+			</div>
+			<!-- Main -->
+
+		</div>
+	<!-- /Main -->
+
+	<!-- Featured -->
+		<div id="featured">
+			<div class="container">
+				<div class="row">
+					<section class="4u">
+						<div class="box">
+							<a href="#" class="image left"><img src="images/bajaj_pulsar_150ns9.jpg" alt=""></a>
+							<h3>Piensa en Grande</h3>
+							<p>
+								Detrás de cada frase motivadora tiene que haber un ESPÍRITU FUERTE dispuesto a LOGRAR todo aquello que se PROPONGA.
+
+							</p>
+							
+						</div>
+					</section>
+					<section class="4u">
+						<div class="box">
+							<a href="#" class="image left"><img src="images/pulsar-200-ns.jpg" alt=""></a>
+							<h3>La vida no es fácil</h3>
+							<p>Si quieres conseguir cosas en tu VIDA, no te quedes mirando la escalera. Empieza a subir, escalón por escalón, hasta que llegues ARRIBA.</p>
+							
+							
+						</div>
+					</section>
+					<section class="4u">
+						<div class="box">
+							<a href="#" class="image left"><img src="images/Pulsar.jpg" alt=""></a>
+							<h3>Propóngase Metas</h3>
+							<p>Arriba ese ÁNIMO, que nadie dijo que la vida fuese fácil. Estamos aqui para disfrutar de los buenos momentos y para SOBREPONERNOS a los MALOS lo más rápido y de la mejor manera posible.</p>
+							
+							
+						</div>
+					</section>
+				</div>
+				<div class="divider"></div>
+			</div>
+		</div>
+	<!-- /Featured -->
+
+	<!-- Footer -->
+		<div id="footer">
+			<div class="container">
+				<div class="row">
+					<div class="3u">
+						<section>
+							
+						
+					</div>
+				</div>
+			</div>
+		</div>
+	<!-- /Footer -->
+
+	<!-- Copyright -->
+		<div id="copyright" class="container">
+			MOTOS: <a href="http://localhost/jhon/">Stiwar</a> Inicio
+		</div>
+
+
+	</body>
+</html>
