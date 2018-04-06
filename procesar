@@ -1,0 +1,17 @@
+<?php
+$Nombre = $_POST['Nombre'];
+$Apellido = $_POST['Apellido'];
+$Ciudad =$_POST['Ciudad'];
+$Direccion = $_POST['Direccion']; 
+$Telefono =$_POST['Telefono'];
+$Email = $_POST['Email'];
+
+echo "<h2>Informacion recibida</h2>";
+
+echo "El Nombre es:" .$Nombre. "<br/>";
+echo "El Apellido es:" .$Apellido. "<br/>";
+echo "El Ciudad es:" .$Ciudad. "<br/>";
+echo "El Direccion es:" .$Direccion. "<br/>";
+echo "El Telefono es:" .$Telefono. "<br/>";
+echo "El Email es:" .$Email. "<br/>";
+?>
